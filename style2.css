@@ -1,0 +1,85 @@
+.container{
+  width:74%;
+  max-width: 1920px;
+   margin: 0 auto ;
+}
+ header{
+  background-image:url('./resources/Banner\ Image.png');
+  height: 600px;
+  align-items: center;
+  background-repeat: no-repeat;
+  
+}
+.banner{
+  color: #FFF;
+
+text-align: center;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.banner-then{
+  color: #FFF;
+
+text-align: center;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;  
+} 
+.off{
+  color: #F00;
+
+  text-align: center;
+  font-family: Inter;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 500px;
+  
+}
+ .our{
+  color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+ }
+.all{
+  color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.welcome{
+  color:white;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+text-align: co;
+font-weight: 900;
+line-height: 88px;   
+letter-spacing: 7.04px;
+margin-top:-200px;
+background-image: url('./resources/Vectorrr.png');
+width: 1320px;
+height: 600px;
+ 
+  
+}
+.dolor{
+  color:red;
+  
+}
