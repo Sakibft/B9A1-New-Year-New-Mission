@@ -11,7 +11,7 @@ margin=0 auto
  
   }
   .banner{
-    background-image: url('/resources/Banner\ Image.png'),url('./resources/rectangle\ 15.png');
+    background-image: url('./resources/Banner\ Image.png'),url('./resources/rectangle\ 15.png');
     background-repeat: no-repeat;
     width:74%;
     max-width: 1320px;
